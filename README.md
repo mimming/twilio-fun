@@ -2,7 +2,13 @@
 
 Just me poking around with the Twilio quick start, figuring out how to send an SMS from the command line in Python3 and Java from a trial account
 
-![sent from java](java-send.gif) ![got message](sms-got.png)
+Send with Java or Python:
+
+<img src="java-send.gif" width="400"/>
+
+Get via SMS:
+
+<img src="sms-got.png" width="400"/>
 
 
 ## Stuff in here

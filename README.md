@@ -28,12 +28,12 @@ Get a message like this:
 0. Run the script:
      - Python 
 
-          $ cd python
-          $ python3 send_sms.py 'hello!'
+            $ cd python
+            $ python3 send_sms.py 'hello!'
 
     - Java
     
-          $ cd java
-          $ mvn package
-          $ cd target
-          $ java -jar send-sms-1.0-SNAPSHOT.jar 'message'
+            $ cd java
+            $ mvn package
+            $ cd target
+            $ java -jar send-sms-1.0-SNAPSHOT.jar 'message'

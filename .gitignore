@@ -1,0 +1,8 @@
+java/.idea
+java/dependency-reduced-pom.xml
+java/*iml
+java/target
+
+python/*pyc
+
+**.DS_Store
